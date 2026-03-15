@@ -21,7 +21,7 @@
 **`amharic-programming-language`**
 
 ```bash
-git clone https://github.com/yourusername/amharic-programming-language.git
+git clone https://github.com/EYOBBEGASHAW/amharic-programming-language.git
 cd amharic-programming-language
 ```
 
@@ -58,60 +58,6 @@ The **Amharic Programming Language** allows developers to write code using Amhar
 - ✅ ባለብዙ ክልል ተለዋዋጮች (Scoped Variables)
 - ✅ ዝግጁ ተግባራት (Built-in Functions)
 - ✅ በቃለ መስተዋወህ ሻል (Interactive Shell)
-
----
-
-## 🚀 መጫን (Installation)
-
-### ቅድመ ሁኔታ (Prerequisites)
-- Python 3.7 ወይም ከዚያ በላይ
-- pip (Python package manager)
-
-### መጫኛ ደረጃዎች (Installation Steps)
-
-```bash
-# 1. ማከማቻውን ያውርዱ (Clone the repository)
-git clone https://github.com/yourusername/amharic-programming-language.git
-cd amharic-programming-language
-
-# 2. ፋይሎቹን ይመልከቱ (Make the main file executable)
-chmod +x main.py
-
-# 3. (አማራጭ) ሊንክ ይፍጠሩ (Optional: Create a symbolic link)
-ln -s $(pwd)/main.py /usr/local/bin/aml
-```
-
----
-
-## 📝 አጠቃቀም (Usage)
-
-### በቃለ መስተዋወህ ሻል (Interactive Shell)
-```bash
-python main.py
-# ወይም (or)
-./main.py
-```
-
-### ፋይል ማስኬድ (Run a File)
-```bash
-python main.py ፋይል.aml
-python main.py examples/hello.aml
-```
-
-### በተንሸራታች ሞድ (Debug Mode)
-```bash
-python main.py --debug ፋይል.aml
-```
-
-### ሙከራዎችን ማስኬድ (Run Tests)
-```bash
-python main.py --test
-```
-
-### እርዳታ ማግኘት (Get Help)
-```bash
-python main.py --help
-```
 
 ---
 
@@ -259,37 +205,7 @@ python main.py --help
 
 ---
 
-## 🏗️ የፕሮጀክት መዋቅር (Project Structure)
-
-```
-amharic-programming-language/
-│
-├── main.py                 # ዋና ፕሮግራም (Main program)
-├── lexer.py                # ሌክሳር - ቶከን መፍጠሪያ (Lexer - Tokenizer)
-├── parser.py               # ፓርሰር - የኮድ ዛፍ ገንቢ (Parser - AST Builder)
-├── interpreter.py          # ኢንተርፕሪተር - ኮድ አስፈጻሚ (Interpreter)
-│
-├── examples/               # ምሳሌዎች (Example programs)
-│   ├── hello.aml
-│   ├── math.aml
-│   ├── functions.aml
-│   └── ...
-│
-├── tests/                  # ሙከራዎች (Test files)
-├── docs/                   # ሰነዶች (Documentation)
-└── README.md               # ይህ ፋይል (This file)
-```
-
----
-
-## 🔧 የቴክኖሎጂ ቁልል (Technology Stack)
-
-- **Python 3.7+** - ዋና ፕሮግራሚንግ ቋንቋ (Core programming language)
-- **ከምንም ውጫዊ ቤተ-መጻሕፍት ነፃ** (No external dependencies)
-- **የዩኒኮድ ድጋፍ** (Full Unicode support for Amharic characters)
-
----
-
+# 
 ## 📊 የአፈጻጸም (Performance)
 
 ቋንቋው በሚከተሉት ላይ ተፈትኗል (The language has been tested on):
@@ -325,7 +241,7 @@ amharic-programming-language/
 
 MIT License
 
-Copyright (c) 2024 አማርኛ ፕሮግራሚንግ ቋንቋ
+Copyright (c) 2026/2018 አማርኛ ፕሮግራሚንግ ቋንቋ
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files...
@@ -334,9 +250,9 @@ of this software and associated documentation files...
 
 ## 📞 ድጋፍ (Support)
 
-- 📧 ኢሜይል: [email@example.com](mailto:email@example.com)
-- 🐦 ተሌግራም: [@amharic_programming](https://t.me/amharic_programming)
-- 💬 ውይይት ቡድን: [Telegram Group](https://t.me/amharic_programming_group)
+- 📧 ኢሜይል: [AMHARICPROGRAMMINGLANGUAGE.com](amharicprogramminglanguage@gmail.com)
+- 🐦 ተሌግራም: [@amharic_programming](https://t.me/amharicPL)
+- 💬 ውይይት ቡድን: [Telegram Group](https://t.me/+Q_Ofjgj6lKNmOWE0)
 
 ---
 
@@ -362,12 +278,6 @@ of this software and associated documentation files...
   <strong>አማርኛን በኮድ እንጻፍ! አማርኛን በቴክኖሎጂ እናሳድግ!</strong>
   <br>
   <em>Write code in Amharic! Advance Amharic in technology!</em>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/አማርኛ-ሶፍትዌር-blue" alt="Amharic Software">
-  <img src="https://img.shields.io/badge/Ethiopia-Programming-green" alt="Ethiopia Programming">
-  <img src="https://img.shields.io/badge/Language-Amharic-orange" alt="Amharic Language">
 </p>
 
 ---
