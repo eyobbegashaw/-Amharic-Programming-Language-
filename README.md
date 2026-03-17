@@ -274,6 +274,8 @@ of this software and associated documentation files...
 
 ---
 
+
+
 <p align="center">
   <strong>አማርኛን በኮድ እንጻፍ! አማርኛን በቴክኖሎጂ እናሳድግ!</strong>
   <br>
